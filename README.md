@@ -1,2 +1,14 @@
 # Python Learning
-This repo is all about my journey of learning Python    I’ll keep adding new things as I learn — from basics to projects.    Stay tuned for updates!
+
+# Topics Covered
+
+- Python Basics
+- Variables & Data Types
+- Strings in Python
+
+# Purpose
+This repo is created for:
+- Learning Python step by step
+- Practicing coding examples
+- Storing small projects and exercises
+- 
