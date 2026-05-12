@@ -11,4 +11,3 @@ This repo is created for:
 - Learning Python step by step
 - Practicing coding examples
 - Storing small projects and exercises
-- 
