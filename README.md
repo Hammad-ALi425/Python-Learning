@@ -25,24 +25,29 @@ Example:
 ```python
 name = "Ali"
 message = "Hello World"
-
+```
 
 🔤 Python Lists and Tuples
 
 This section covers Python List and Tuple, two of the most commonly used data structures in Python.
 
 
-List
+## List
 
 A **List** is an ordered, mutable (changeable) collection of items.
 
-## Creating a List
+**Creating a List**
 
+
+```python
 fruits = ["apple", "banana", "mango"]
+```
 
-Tuples
+## Tuple
+
 A Tuple is an ordered, immutable (unchangeable) collection of items.
 
-## Creating a Tuple
-
+**Creating a Tuple**
+```python
 colors = ("red", "green", "blue")
+```
