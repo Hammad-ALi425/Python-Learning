@@ -51,3 +51,27 @@ A Tuple is an ordered, immutable (unchangeable) collection of items.
 ```python
 colors = ("red", "green", "blue")
 ```
+
+## Dictionary
+
+A dictionary in Python is a data structure that stores data in the form of key-value pairs.
+Each value is associated with a unique key, which makes data retrieval fast and efficient.
+
+📌 Syntax:
+```python
+my_dict = {
+    "name": "Hammad",
+    "age": 20,
+    "course": "Python"
+}
+```
+
+📌 Key Features:
+
+🔑 Data is stored in key-value pairs
+
+⚡ Provides fast data access
+
+🔄 Mutable (can be changed)
+
+❌ Does not allow duplicate keys
