@@ -75,3 +75,135 @@ my_dict = {
 🔄 Mutable (can be changed)
 
 ❌ Does not allow duplicate keys
+
+# Python Conditional Statements and Loops
+
+A beginner-friendly guide to understanding conditional statements and loops in Python.
+
+---
+
+# 1. Conditional Statements
+
+Conditional statements allow a program to make decisions based on conditions.
+
+## if Statement
+
+Executes a block of code if the condition is `True`.
+
+```python
+age = 18
+
+if age >= 18:
+    print("Eligible to vote")
+```
+
+## if-else Statement
+
+Executes one block if the condition is `True`, otherwise executes another block.
+
+```python
+num = 5
+
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+```
+
+## if-elif-else Ladder
+
+Used when multiple conditions need to be checked.
+
+```python
+marks = 75
+
+if marks >= 90:
+    print("Grade A")
+
+elif marks >= 80:
+    print("Grade B")
+
+elif marks >= 70:
+    print("Grade C")
+
+else:
+    print("Fail")
+```
+
+
+
+# 2. Loops
+
+Loops are used to execute a block of code repeatedly.
+
+## for Loop
+
+Used when the number of iterations is known.
+
+```python
+for i in range(1, 6):
+    print(i)
+```
+
+Output:
+
+```text
+1
+2
+3
+4
+5
+```
+
+---
+
+## range() Function
+
+Syntax:
+
+```python
+range(start, stop, step)
+```
+
+Example:
+
+```python
+for i in range(0, 10, 2):
+    print(i)
+```
+
+Output:
+
+```text
+0
+2
+4
+6
+8
+```
+
+---
+
+## while Loop
+
+Executes repeatedly while a condition remains `True`.
+
+```python
+i = 1
+
+while i <= 5:
+    print(i)
+    i += 1
+```
+
+Output:
+
+```text
+1
+2
+3
+4
+5
+```
+
+
