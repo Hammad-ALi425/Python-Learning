@@ -13,7 +13,9 @@ In this repository, the following **Python basics** are covered:
 - Conditional Statements (if/else)  
 - Loops (for and while)
 - Strings and Basic String methods 
-- Lists and Tuples methods 
+- Lists and Tuples methods
+- Conditional Statements and loops
+- Funcion and recursion
 
 ---
 
@@ -206,4 +208,42 @@ Output:
 5
 ```
 
+# Functions and Recursion in Programming
 
+
+# 🔹 Functions
+
+## What is a Function?
+
+A function is a block of code that performs a specific task. Functions help avoid code repetition and make programs easier to understand and maintain.
+
+### Syntax (Python)
+
+```python
+def greet():
+    print("Hello, World!")
+```
+
+
+## Advantages of Functions
+
+- Code Reusability
+- Better Organization
+- Easier Debugging
+- Improved Readability
+
+---
+
+# 🔹 Recursion
+
+## What is Recursion?
+
+Recursion is a technique where a function calls itself to solve a smaller version of the same problem.
+
+### Important Parts of Recursion
+
+1. **Base Case** – Stops the recursion.
+2. **Recursive Case** – Function calls itself.
+
+
+Happy Coding! 🚀
